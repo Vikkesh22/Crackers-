@@ -1,0 +1,28 @@
+.view-orders {
+    padding: 20px;
+}
+
+.view-orders h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.view-orders ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.view-orders li {
+    background-color: #f8f9fa;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.view-orders h3 {
+    margin: 0 0 10px 0;
+}
+
+.view-orders h4 {
+    margin: 10px 0;
+}
